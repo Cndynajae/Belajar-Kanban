@@ -1,6 +1,6 @@
 <div>
     <h1 class="mt-4 ml-12 mb-4 text-3xl font-bold text-gray-900">
-        Kanban Board by Laravel Livewire
+        Laravel Livewire-Kanban
     </h1>
     @livewire('create-kanban')
     @if (session()->has('message'))
